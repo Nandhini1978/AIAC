@@ -1,0 +1,23 @@
+[
+  {
+    "city": "London",
+    "temp": 12,
+    "humidity": 91,
+    "weather": "Moderate rain",
+    "timestamp": "2025-10-29T18:04:41.887112"
+  },
+  {
+    "city": "London",
+    "temp": 12,
+    "humidity": 91,
+    "weather": "Moderate rain",
+    "timestamp": "2025-10-29T18:40:21.803981"
+  },
+  {
+    "city": "New York",
+    "temp": 10,
+    "humidity": 68,
+    "weather": "Overcast clouds",
+    "timestamp": "2025-10-29T18:40:48.472488"
+  }
+]
